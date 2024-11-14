@@ -6,4 +6,4 @@ Front-End Developer
 
 *   🌍  I'm based in Bangalore, India
 *   ✉️  You can contact me at [vignesh134410@gmail.com](mailto:vignesh134410@gmail.com)
-*   🤝  I'm open to collaborating on Interesting projevts
+*   🤝  I'm open to collaborating on Interesting projects
