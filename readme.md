@@ -4,6 +4,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Front-End Developer
 -------------------
 
-*   🌍  I'm based in Bangalore, India
+*   🌍  I'm based in brusells, Belgium
 *   ✉️  You can contact me at [vignesh134410@gmail.com](mailto:vignesh134410@gmail.com)
 *   🤝  I'm open to collaborating on Interesting projects
